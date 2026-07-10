@@ -1,0 +1,7 @@
+Rank,Model,Reference,Accuracy,AUC,Precision,Recall,F1
+1,SFRPD-Net (Ours),This work,0.9906*,0.9995*,0.9912*,0.9927*,0.9920*
+2,Xception (RGB+FFT),Xception + FFT (Ours),0.9867,0.9991,0.9863,0.9910,0.9886
+3,Xception (RGB),Rossler et al. (2019),0.9795,0.9985,0.9866,0.9781,0.9823
+4,VGG-16 3-Stream,VGG-16 3-Stream (Ours),0.9799,0.9981,0.9833,0.9821,0.9827
+5,VGG-16 (RGB+FFT),VGG-16 + FFT (Ours),0.9631,0.9955,0.9735,0.9629,0.9682
+6,VGG-16 (RGB),Simonyan & Zisserman (2014),0.9636,0.9954,0.9749,0.9623,0.9686

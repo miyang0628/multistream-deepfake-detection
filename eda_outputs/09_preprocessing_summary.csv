@@ -1,0 +1,5 @@
+Subset,Image Count
+Track1 — Real (face crop),"140,000"
+Track1 — Fake (face crop),"150,000"
+Track2 — Real (full scene),"140,000"
+Track2 — Fake (full scene),"150,000"

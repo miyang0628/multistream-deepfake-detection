@@ -1,0 +1,7 @@
+Subset,Image Count
+DeepFakeFace — Real,"30,000"
+DeepFakeFace — Fake (all),"90,000"
+140k Dataset — Real,"60,000"
+140k Dataset — Fake,"60,000"
+CIFAKE — Total,"120,000"
+GRAND TOTAL,"360,000"

@@ -1,0 +1,7 @@
+exp_name,Model,Reference,Type,Accuracy,AUC,Precision,Recall,F1
+vgg16_rgb,VGG-16 (RGB),Simonyan & Zisserman (2014),Baseline,0.9636,0.9954,0.9749,0.9623,0.9686
+vgg16_rgb_fft,VGG-16 (RGB+FFT),VGG-16 + FFT (Ours),Ablation,0.9631,0.9955,0.9735,0.9629,0.9682
+vgg16_rgb_fft_phy,VGG-16 3-Stream,VGG-16 3-Stream (Ours),Ablation,0.9799,0.9981,0.9833,0.9821,0.9827
+xcep_rgb,Xception (RGB),Rossler et al. (2019),Baseline,0.9795,0.9985,0.9866,0.9781,0.9823
+xcep_rgb_fft,Xception (RGB+FFT),Xception + FFT (Ours),Ablation,0.9867,0.9991,0.9863,0.991,0.9886
+xcep_rgb_fft_phy,SFRPD-Net (Ours),This work,Ours,0.9906,0.9995,0.9912,0.9927,0.992

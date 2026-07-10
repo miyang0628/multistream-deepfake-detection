@@ -1,0 +1,11 @@
+Dataset / Subset,Image Count
+DeepFakeFace — Real (wiki),"30,000"
+DeepFakeFace — Fake (inpainting),"30,000"
+DeepFakeFace — Fake (insight),"30,000"
+DeepFakeFace — Fake (text2img),"30,000"
+140k Real & Fake — Real (train),"50,000"
+140k Real & Fake — Fake (train),"50,000"
+140k Real & Fake — Real (test),"10,000"
+140k Real & Fake — Fake (test),"10,000"
+CIFAKE — Real,"50,000"
+CIFAKE — Fake,"50,000"

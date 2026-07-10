@@ -1,0 +1,2 @@
+Best Model,Baseline AUC,Baseline Accuracy,Optimal Threshold,Optimal F1,Worst Perturbation,Max AUC Drop
+xcep_rgb_fft_phy,0.9995,0.9906,0.5,0.992,GaussNoise σ=25,0.4324
