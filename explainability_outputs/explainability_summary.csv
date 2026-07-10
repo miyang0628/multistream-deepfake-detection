@@ -1,0 +1,2 @@
+GradCAM_real_mean,GradCAM_fake_mean,GradCAM_ttest_p,FFT_low_diff,FFT_mid_diff,FFT_high_diff
+0.08272667819013198,0.063254466590782,0.5287877239989942,0.4116,0.5453,0.4996
